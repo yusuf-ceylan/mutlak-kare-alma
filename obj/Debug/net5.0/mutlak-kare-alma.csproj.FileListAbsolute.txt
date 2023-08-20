@@ -1,0 +1,16 @@
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.exe
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.deps.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.runtimeconfig.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.runtimeconfig.dev.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.pdb
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.csproj.AssemblyReference.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.AssemblyInfoInputs.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.AssemblyInfo.cs
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\refint\mutlak-kare-alma.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.pdb
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.genruntimeconfig.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\mutlak-kare-alma\obj\Debug\net5.0\ref\mutlak-kare-alma.dll
